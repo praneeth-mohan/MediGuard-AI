@@ -1,5 +1,7 @@
 MediGuard AI is a specialized, medical assistant that bridges the gap between pharmaceutical knowledge and patient safety. It uses a Hybrid AI Architecture—combining a hard-coded local clinical database with FDA API—to provide Uses , Side Effects: and give a summary . it nearly has 75 - 80 % of drugs 
 
+Try our web  https://mediguard-ai-81697114-e44d8.web.app/
+
 <img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/bab102df-e283-4a41-97de-78a452896bb4" />
 <img width="1366" height="768" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/6a6f26ff-de97-4444-9b9c-7590fe52d292" />
 <img width="1366" height="768" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/f037c350-21b4-416d-b73e-aa8625b4cda9" />
