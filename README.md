@@ -1,40 +1,142 @@
-<img width="512" height="512" alt="app_icon" src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" /> app icon 
+<p align="center">
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+    <img src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" width="120" alt="MediGuard AI Logo">
+  </a>
+  <br>
+  <b>Precision Medical Informatics & Drug Safety Intelligence</b>
+</p>
 
-<img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" />
-banner 
-
-try web 
-
-https://mediguard-ai-81697114-e44d8.web.app/
-
-screen shots from pc 
-<img width="1366" height="768" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/55884f95-861a-4529-a5ae-69ab2d7a796d" />
-<img width="1366" height="768" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/b229ab2e-ef60-4341-88ee-247fb2a42c43" />
-<img width="1366" height="768" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/86c40bb6-1aec-4364-aa73-5d61610bc96c" />
-<img width="1366" height="768" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/eda1fce0-9b28-40b7-9634-207fb4e658ca" />
-<img width="1366" height="768" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/681fbb68-1abe-4ea4-99a3-da11b881af3c" />
-<img width="491" height="457" alt="Screenshot (72)" src="https://github.com/user-attachments/assets/75b51e01-17b4-4d45-8b57-f7e0329a2e70" />
-<img width="1366" height="768" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/63894b66-a21f-4dc7-a36f-d62bd19f6a37" />
-<img width="1366" height="768" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/1379581c-5368-480c-bb29-79292eec4c5b" />
-<img width="1366" height="768" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/2be6964c-24ca-4283-91af-307b5cfafb73" />
-<img width="1366" height="768" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/0708d0a4-2c42-4e63-9d4b-8bdc8787ad28" />
-<img width="1366" height="768" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/6a0bd448-1c65-41e1-bd3a-771e5da87a13" />
-<img width="1366" height="768" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/95d0fcf9-8abe-4cb3-be87-f680a76cc449" />
-<img width="1366" height="768" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/4ae956d3-349f-4a95-9374-f23ef8c748c1" />
-<img width="1366" height="768" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/8f9bb658-e75c-4c75-91a8-f60065e9f733" />
-<img width="1366" height="768" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/a51ec4d1-ef0c-4abb-b126-b131a7a19589" />
-<img width="1366" height="768" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/4b8ecee8-ef94-4ac4-96c0-012a910cf58e" />
-<img width="1366" height="768" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/1ae6901c-5e25-43f4-8a6e-212498f44ee1" />
-
-scrren short from phone 
-![WhatsApp Image 2026-03-16 at 11 11 18 PM](https://github.com/user-attachments/assets/67c262b4-844a-4d36-a1cd-ab8d37c6409d)
-![WhatsApp Image 2026-03-16 at 11 11 17 PM](https://github.com/user-attachments/assets/b9959346-945a-4340-86a5-2c89a15afc5c)
-![WhatsApp Image 2026-03-16 at 11 11 17 PM (2)](https://github.com/user-attachments/assets/f92c889f-2f46-4d24-b56d-d87f14151c4c)
-![WhatsApp Image 2026-03-16 at 11 11 16 PM](https://github.com/user-attachments/assets/ef402b22-b4f9-4fe1-8980-986b1e466ab9)
-![WhatsApp Image 2026-03-16 at 11 11 16 PM (2)](https://github.com/user-attachments/assets/4fb1f84c-99c5-4a14-817c-6edae2dd39fc)
-![WhatsApp Image 2026-03-16 at 11 11 16 PM (1)](https://github.com/user-attachments/assets/5c54f653-6571-4d0b-b9e0-be4550b468a8)
-![WhatsApp Image 2026-03-16 at 11 11 15 PM](https://github.com/user-attachments/assets/8687d092-b58e-4905-9960-104003d924ba)
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-008080?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+  <img src="https://img.shields.io/badge/Security-VirusTotal%20Verified-brightgreen?style=for-the-badge" alt="Security">
+</p>
 
 
 
-downloade form mobile destop / windows 
+ 
+ 
+  </a>
+  <br>
+  <b>Click icons to download from Official Release Page</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" width="100%" alt="MediGuard Banner">
+</p>
+
+---
+
+### 📂 Navigation Menu
+<details>
+<summary><b>Click to expand Table of Contents</b></summary>
+
+1. [Introduction](#1-introduction)
+2. [Why MediGuard?](#2-why-mediguard)
+3. [Core Utilities](#3-use-of-mediguard)
+4. [Tech Stack](#4-technology-of-mediguard)
+5. [Web Demo](#5-try-web)
+6. [Download & Install](#6-install-the-mediguard)
+7. [Desktop Gallery](#7-screenshots-for-pc)
+8. [Mobile Gallery](#8-screenshots-for-mobile)
+9. [Security Report](#9-virus-total-pdf)
+10. [Presentation Deck](#10-ppt)
+11. [Video Demo](#11-video-demo)
+12. [Quick Access QR](#12-qr-code-to-try)
+
+</details>
+
+---
+
+## 1. Introduction
+**MediGuard AI** is a specialized clinical assistant designed to provide verified pharmaceutical insights. By leveraging official regulatory data, it ensures that healthcare providers and patients have access to reliable information regarding drug interactions, contraindications, and safety protocols.
+
+## 2. Why MediGuard?
+In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallucination" problem found in general AI by:
+* **Regulatory Sourcing:** Sourcing data directly from official FDA/Healthcare repositories.
+* **Precision Filters:** Removing noise and focusing on clinical data.
+* **Cross-Platform Accessibility:** Consistent experience across Web, Mobile, and Desktop.
+
+## 3. Use of MediGuard
+- **Drug Discovery:** Rapid search for medication uses and side effects.
+- **Safety Audits:** Checking for contraindications in multi-drug prescriptions.
+- **Clinical Intelligence:** Summarized insights for healthcare professionals.
+
+## 4. Technology of MediGuard
+- **Logic:** FDA API Integration for high-fidelity regulatory data.
+- **Backend:** Firebase (Cloud Storage, Real-time Database, Hosting).
+- **Frameworks:** Native Android & Windows Desktop optimization.
+- **Design:** Professional Consulting Style (McKinsey/Deloitte inspired).
+
+## 5. Try Web
+The web version is live and optimized for immediate testing:  
+👉 [**Launch MediGuard Web App**](https://mediguard-ai-81697114-e44d8.web.app/)
+
+## 6. Install the MediGuard
+Click the icons below to go to the **Official Release Page** for downloads:
+
+| Android (APK) | Windows (EXE) |
+| :---: | :---: |
+| <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases"><img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/icon.png" width="80" alt="Android APK"></a> | <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases"><img src="https://www.gitstore.app/favicon.ico" width="80" alt="Windows EXE"></a> |
+| **Download via Obtainium** | **Download via GitStore** |
+
+---
+
+## 7. Screenshots for PC
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8634272d-febf-459e-9898-f4261b8edeaa" width="48%" />
+  <img src="https://github.com/user-attachments/assets/1eb639b6-489f-4884-998f-bc56df35510d" width="48%" />
+  <img src="https://github.com/user-attachments/assets/24e7ecfe-e8c5-4a06-993f-368d830b78ac" width="48%" />
+  <img src="https://github.com/user-attachments/assets/303ec15d-f520-47e4-b99f-ee2d3f789295" width="48%" />
+</p>
+
+<details>
+<summary><b>View Expanded PC Gallery</b></summary>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2f09eec3-53ba-457a-852c-41a4002beeb7" width="48%" />
+  <img src="https://github.com/user-attachments/assets/be2e7123-c840-49ad-aafc-9b603a4b1e94" width="48%" />
+  <img src="https://github.com/user-attachments/assets/9cc1830b-8422-4d2c-abf4-b006d0477ec9" width="48%" />
+  <img src="https://github.com/user-attachments/assets/40eac515-fad4-425c-93b7-e114e0cb44ac" width="48%" />
+  <img src="https://github.com/user-attachments/assets/fa5a15e2-dd2b-43f3-9fb9-7f2ec9d2ecc2" width="48%" />
+  <img src="https://github.com/user-attachments/assets/86d8bfa8-9f1d-4e80-8b34-90e070333427" width="48%" />
+  <img src="https://github.com/user-attachments/assets/281f9f23-2644-41cc-b7b5-b3519dabe981" width="48%" />
+  <img src="https://github.com/user-attachments/assets/6a879dfb-49ed-4a6f-be4e-987a86e66a72" width="48%" />
+</p>
+</details>
+
+## 8. Screenshots for Mobile
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67c262b4-844a-4d36-a1cd-ab8d37c6409d" width="23%" />
+  <img src="https://github.com/user-attachments/assets/b9959346-945a-4340-86a5-2c89a15afc5c" width="23%" />
+  <img src="https://github.com/user-attachments/assets/f92c889f-2f46-4d24-b56d-d87f14151c4c" width="23%" />
+  <img src="https://github.com/user-attachments/assets/ef402b22-b4f9-4fe1-8980-986b1e466ab9" width="23%" />
+</p>
+
+## 9. Virus Total PDF
+To ensure maximum safety for healthcare environments, our executables are pre-scanned for threats.  
+- 🛡️ [**View Security Scan Report (PDF)**](https://github.com/user-attachments/files/26137758/virus.total.pdf)
+
+## 10. PPT
+Official pitch deck for the **Pharma Hackathon 2026**:  
+- 📊 [**Download MediGuard-AI.pptx**](https://github.com/user-attachments/files/26137800/MediGuard-AI.pptx)
+
+## 11. Video Demo
+Experience the full workflow of MediGuard AI:  
+- 🎥 [**Watch the Demonstration Video**](
+
+## 12. QR Code to Try
+Scan this code with your mobile device to open the Web App or install directly:
+
+<p align="center">
+  <img width="980" height="980" alt="MediGuard_AI_QR_Transparent_White" src="https://github.com/user-attachments/assets/7715072c-a366-47f5-ac03-f52885463fcf" />
+<img width="900" height="900" alt="mediguard_ai_qr_inverted_transparent_logo" src="https://github.com/user-attachments/assets/2f4d352b-c202-4d41-8455-bc1e02622e41" />
+<img width="684" height="684" alt="1 png" src="https://github.com/user-attachments/assets/3b198ef8-51b7-4c5c-8e40-88a90fd4cea9" />
+
+
+
+
+
+
+---
+
+<p align="center"><b>MediGuard AI - Building the Future of Pharma Safety</b></p>
