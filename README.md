@@ -1,20 +1,11 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+<img width="512" height="512" alt="app_icon" src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" /> app icon 
 
-# Run and deploy your AI Studio app
+<img width="1280" height="640" alt="banner" src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" />
+banner 
 
-This contains everything you need to run your app locally.
+try web 
 
-View your app in AI Studio: https://ai.studio/apps/drive/1dlZ7wC3pizlvpOlBab10Us1OWLSrROdG
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+https://mediguard-ai-81697114-e44d8.web.app/
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+downloade form mobile destop / windows 
