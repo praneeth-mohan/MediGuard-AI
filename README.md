@@ -77,7 +77,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 
 | Android (APK) | Windows (EXE) |
 | :---: | :---: |
-| <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases"><img src="https://raw.githubusercontent.com/ImranR98/Obtainium/main/assets/icon.png" width="80" alt="Android APK"></a> | <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases"><img src="https://www.gitstore.app/favicon.ico" width="80" alt="Windows EXE"></a> |
+| <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases"> | <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
 | **Download via Obtainium** | **Download via GitStore** |
 
 ---
@@ -86,8 +86,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8634272d-febf-459e-9898-f4261b8edeaa" width="48%" />
   <img src="https://github.com/user-attachments/assets/1eb639b6-489f-4884-998f-bc56df35510d" width="48%" />
-  <img src="https://github.com/user-attachments/assets/24e7ecfe-e8c5-4a06-993f-368d830b78ac" width="48%" />
-  <img src="https://github.com/user-attachments/assets/303ec15d-f520-47e4-b99f-ee2d3f789295" width="48%" />
+ 
 </p>
 
 <details>
