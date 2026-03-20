@@ -1,0 +1,5 @@
+{
+  "name": "MediGuard AI",
+  "description": "A specialized AI medical assistant providing concise drug interaction checks, dosage forecasting, and safety warnings with real-time search grounding.",
+  "requestFramePermissions": []
+}
