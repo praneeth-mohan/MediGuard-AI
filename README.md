@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-008080?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+  <img src="https://img.shields.io/badge/Version-1.0.0-008080?style=for-the-badge" alt="Version"><a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+  <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> 
   <img src="https://img.shields.io/badge/Security-VirusTotal%20Verified-brightgreen?style=for-the-badge" alt="Security">
 </p>
 
