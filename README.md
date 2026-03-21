@@ -157,7 +157,7 @@ Experience the full workflow of MediGuard AI:
 |------|------|
 | Nandini | Team Contributor |
 | Sindhu | Team Contributor |
-| Praneeth Mohan | Team Contributor |
+| Praneeth Mohan | Developer |
 | Rohit | Team Contributor |
 | Noya | Team Contributor |
 
