@@ -18,8 +18,9 @@
   <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
     <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> 
   </a>
+<a href="https://github.com/user-attachments/files/26137758/virus.total.pdf">
   <img src="https://img.shields.io/badge/Security-VirusTotal%20Verified-brightgreen?style=for-the-badge" alt="Security">
-  <a href= https://github.com/user-attachments/files/26137758/virus.total.pdf
+</a>
 </p>
 
 <p align="center">
