@@ -119,7 +119,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 
 ---
 <details>
-<summary><b> 7. Screenshots for PC</b></summary>
+<summary><b>🖥️ View Desktop Screenshots</b></summary>
 
 ## 7. Screenshots for PC
 <p align="center">
