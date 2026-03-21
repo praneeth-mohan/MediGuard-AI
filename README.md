@@ -45,7 +45,7 @@
 
 ### 📂 Navigation Menu
 <details>
-<summary><b>Click to expand Table of Contents</b></summary>
+
 
 1. [Introduction](#1-introduction)
 2. [Why MediGuard?](#2-why-mediguard)
@@ -72,16 +72,25 @@
 ## 1. Introduction
 **MediGuard AI** is a specialized clinical assistant designed to provide verified pharmaceutical insights. By leveraging official regulatory data, it ensures that healthcare providers and patients have access to reliable information regarding drug interactions, contraindications, and safety protocols.
 
+<details>
+<summary><b>2. Why MediGuard?</b></summary>
+
 ## 2. Why MediGuard?
 In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallucination" problem found in general AI by:
 * **Regulatory Sourcing:** Sourcing data directly from official FDA/Healthcare repositories.
 * **Precision Filters:** Removing noise and focusing on clinical data.
 * **Cross-Platform Accessibility:** Consistent experience across Web, Mobile, and Desktop.
 
+<details>
+<summary><b>3. Use of MediGuard</b></summary>
+  
 ## 3. Use of MediGuard
 - **Drug Discovery:** Rapid search for medication uses and side effects.
 - **Safety Audits:** Checking for contraindications in multi-drug prescriptions.
 - **Clinical Intelligence:** Summarized insights for healthcare professionals.
+
+  <details>
+<summary><b>4. Technology of MediGuard</b></summary>
 
 ## 4. Technology of MediGuard
 - **Logic:** FDA API Integration for high-fidelity regulatory data.
@@ -89,9 +98,17 @@ In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallu
 - **Frameworks:** Native Android & Windows Desktop optimization.
 - **Design:** Professional Consulting Style (McKinsey/Deloitte inspired).
 
+
+<details>
+<summary><b> 5. Try Web</b></summary>
+
 ## 5. Try Web
 The web version is live and optimized for immediate testing:  
 👉 [**Launch MediGuard Web App**](https://mediguard-ai-81697114-e44d8.web.app/)
+
+
+<details>
+<summary><b>6. Install the MediGuard</b></summary>
 
 ## 6. Install the MediGuard
 Click the icons below to go to the **Official Release Page** for downloads:
@@ -102,6 +119,8 @@ Click the icons below to go to the **Official Release Page** for downloads:
 | ⚙️ Obtainium | [Install via Obtainium](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
 
 ---
+<details>
+<summary><b> 7. Screenshots for PC</b></summary>
 
 ## 7. Screenshots for PC
 <p align="center">
@@ -124,6 +143,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 </p>
 </details>
 
+
 ## 8. Screenshots for Mobile
 <p align="center">
   <img src="https://github.com/user-attachments/assets/67c262b4-844a-4d36-a1cd-ab8d37c6409d" width="23%" />
@@ -132,17 +152,37 @@ Click the icons below to go to the **Official Release Page** for downloads:
   <img src="https://github.com/user-attachments/assets/ef402b22-b4f9-4fe1-8980-986b1e466ab9" width="23%" />
 </p>
 
+
+<details>
+<summary><b>9. Virus Total PDF</b></summary>
+
 ## 9. Virus Total PDF
 To ensure maximum safety for healthcare environments, our executables are pre-scanned for threats.  
 - 🛡️ [**View Security Scan Report (PDF)**](https://github.com/user-attachments/files/26137758/virus.total.pdf)
+
+<details>
+<summary><b> 10. PPT</b></summary>
+
 
 ## 10. PPT
 Official pitch deck for the **Pharma Hackathon 2026**:  
 - 📊 [**Download MediGuard-AI.pptx**](https://github.com/user-attachments/files/26137800/MediGuard-AI.pptx)
 
+<details>
+<summary><b>11. Video Demo</b></summary>
+
 ## 11. Video Demo
 Experience the full workflow of MediGuard AI:  
 - 🎥 [**Watch the Demonstration Video**](
+
+https://github.com/user-attachments/assets/35bf6b0b-de2b-4375-a568-cce0b0b65736
+
+
+
+
+
+<details>
+<summary><b> 12. MediGuard vs Standard AI</b></summary>
 
 ## 12. MediGuard vs Standard AI
 
@@ -154,6 +194,10 @@ Experience the full workflow of MediGuard AI:
 | Safety Focus | Highlights contraindications, interactions, high-risk warnings | Limited or inconsistent safety validation |
 | Purpose | Specialized medical assistant for patient safety | General-purpose conversational AI |
 
+<details>
+<summary><b> 13. Meet the Team</b></summary>
+
+
 ## 13. Meet the Team
 | Name | Role |
 |------|------|
@@ -162,6 +206,10 @@ Experience the full workflow of MediGuard AI:
 | Praneeth Mohan | Developer |
 | Rohit | Team Contributor |
 | Noya | Team Contributor |
+
+
+<details>
+<summary><b> 14. QR Code to Try</b></summary>
 
 ## 14. QR Code to Try
 Scan this code with your mobile device to open the Web App or install directly:
