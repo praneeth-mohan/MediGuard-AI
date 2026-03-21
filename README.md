@@ -132,7 +132,7 @@ Scan this code with your mobile device to open the Web App or install directly:
 <img width="684" height="684" alt="1 png" src="https://github.com/user-attachments/assets/3b198ef8-51b7-4c5c-8e40-88a90fd4cea9" />
 
 
-
+ 
 
 
 
