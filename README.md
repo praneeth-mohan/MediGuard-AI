@@ -164,9 +164,9 @@ Official pitch deck for the **Pharma Hackathon 2026**:
 Experience the full workflow of MediGuard AI:  
 - 🎥 [**Watch the Demonstration Video**]
 
-<p align="center">
+
 https://github.com/user-attachments/assets/e74abdf6-7d42-4fe3-a7b3-a345b3d6b122
-</p>
+
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/e74abdf6-7d42-4fe3-a7b3-a345b3d6b122">
