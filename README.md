@@ -44,7 +44,7 @@
 
 
 ### 📂 Navigation Menu
-<details>
+
 
 
 1. [Introduction](#1-introduction)
@@ -66,13 +66,13 @@
 
 
 ---
-<details>
+
 <summary><b> 1. Introduction</b></summary>
   
 ## 1. Introduction
 **MediGuard AI** is a specialized clinical assistant designed to provide verified pharmaceutical insights. By leveraging official regulatory data, it ensures that healthcare providers and patients have access to reliable information regarding drug interactions, contraindications, and safety protocols.
 
-<details>
+
 <summary><b>2. Why MediGuard?</b></summary>
 
 ## 2. Why MediGuard?
@@ -81,7 +81,7 @@ In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallu
 * **Precision Filters:** Removing noise and focusing on clinical data.
 * **Cross-Platform Accessibility:** Consistent experience across Web, Mobile, and Desktop.
 
-<details>
+
 <summary><b>3. Use of MediGuard</b></summary>
   
 ## 3. Use of MediGuard
@@ -89,7 +89,7 @@ In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallu
 - **Safety Audits:** Checking for contraindications in multi-drug prescriptions.
 - **Clinical Intelligence:** Summarized insights for healthcare professionals.
 
-  <details>
+
 <summary><b>4. Technology of MediGuard</b></summary>
 
 ## 4. Technology of MediGuard
@@ -99,7 +99,6 @@ In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallu
 - **Design:** Professional Consulting Style (McKinsey/Deloitte inspired).
 
 
-<details>
 <summary><b> 5. Try Web</b></summary>
 
 ## 5. Try Web
