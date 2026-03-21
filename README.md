@@ -64,7 +64,7 @@
     
 
 </details>
-
+<summary><b>Click to expand Table of Contents</b></summary>
 ---
 
 ## 1. Introduction
