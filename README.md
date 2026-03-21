@@ -6,25 +6,40 @@
   <b>Precision Medical Informatics & Drug Safety Intelligence</b>
 </p>
 
+<!-- 🔥 TRY WEB ADDED -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-008080?style=for-the-badge" alt="Version"><a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
-  <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> 
+  <a href="https://mediguard-ai-81697114-e44d8.web.app/">
+    <img src="https://img.shields.io/badge/Try-Live_Web_App-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-008080?style=for-the-badge" alt="Version">
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+    <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> 
+  </a>
   <img src="https://img.shields.io/badge/Security-VirusTotal%20Verified-brightgreen?style=for-the-badge" alt="Security">
 </p>
 
-
-
- 
- 
-  </a>
-  <br>
+<p align="center">
   <b>Click icons to download from Official Release Page</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+    <img src="https://img.shields.io/badge/Download-Obtainium-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Obtainium">
+  </a>
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+    <img src="https://img.shields.io/badge/Download-Android_APK-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  </a>
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+    <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" width="100%" alt="MediGuard Banner">
 </p>
-
 ---
 
 ### 📂 Navigation Menu
@@ -42,7 +57,9 @@
 9. [Security Report](#9-virus-total-pdf)
 10. [Presentation Deck](#10-ppt)
 11. [Video Demo](#11-video-demo)
-12. [Quick Access QR](#12-qr-code-to-try)
+12. [MediGuard vs Standard AI](#12-mediguard-vs-standard-ai)
+13. [Quick Access QR](#13-qr-code-to-try)
+    
 
 </details>
 
@@ -123,7 +140,17 @@ Official pitch deck for the **Pharma Hackathon 2026**:
 Experience the full workflow of MediGuard AI:  
 - 🎥 [**Watch the Demonstration Video**](
 
-## 12. QR Code to Try
+## 12. MediGuard vs Standard AI
+
+| Feature / Aspect | MediGuard AI (Safety-First System) | Standard AI Chatbots (Conversational) |
+|------------------|-----------------------------------|---------------------------------------|
+| Architecture | Structured drug-query system to prevent misinformation | Open-ended conversation prone to hallucinations |
+| Data Reliability | Verified pharmaceutical databases and regulatory sources | May prioritize fluency over clinical accuracy |
+| Drug Coverage | Covers ~75–80% of commonly used medicines with validated data | May provide generic or incomplete medical info |
+| Safety Focus | Highlights contraindications, interactions, high-risk warnings | Limited or inconsistent safety validation |
+| Purpose | Specialized medical assistant for patient safety | General-purpose conversational AI |
+
+## 13. QR Code to Try
 Scan this code with your mobile device to open the Web App or install directly:
 
 <p align="center">
