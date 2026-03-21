@@ -112,8 +112,6 @@ Click the icons below to go to the **Official Release Page** for downloads:
 | ⚙️ Obtainium | [Install via Obtainium](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
 
 ---
-<details>
-<summary><b>🖥️ View Desktop Screenshots</b></summary>
 
 ## 7. Screenshots for PC
 <p align="center">
@@ -136,8 +134,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 </p>
 </details>
 
-<details>
-<summary><b>Screenshots for Mobile</b></summary>
+
   
 ## 8. Screenshots for Mobile
 <p align="center">
