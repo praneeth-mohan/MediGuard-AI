@@ -72,8 +72,8 @@
 ## 1. Introduction
 **MediGuard AI** is a specialized clinical assistant designed to provide verified pharmaceutical insights. By leveraging official regulatory data, it ensures that healthcare providers and patients have access to reliable information regarding drug interactions, contraindications, and safety protocols.
 
-
-<summary><b>2. Why MediGuard?</b></summary>
+<details>
+<b>2. Why MediGuard?</b></summary>
 
 ## 2. Why MediGuard?
 In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallucination" problem found in general AI by:
