@@ -153,7 +153,6 @@ Experience the full workflow of MediGuard AI:
 | Purpose | Specialized medical assistant for patient safety | General-purpose conversational AI |
 
 ## 13. Meet the Team
-
 | Name | Role |
 |------|------|
 | Nandini | Team Contributor |
