@@ -136,7 +136,9 @@ Click the icons below to go to the **Official Release Page** for downloads:
 </p>
 </details>
 
-
+<details>
+<summary><b>Screenshots for Mobile</b></summary>
+  
 ## 8. Screenshots for Mobile
 <p align="center">
   <img src="https://github.com/user-attachments/assets/67c262b4-844a-4d36-a1cd-ab8d37c6409d" width="23%" />
