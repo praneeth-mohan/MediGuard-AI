@@ -59,7 +59,8 @@
 10. [Presentation Deck](#10-ppt)
 11. [Video Demo](#11-video-demo)
 12. [MediGuard vs Standard AI](#12-mediguard-vs-standard-ai)
-13. [Quick Access QR](#13-qr-code-to-try)
+13. [Meet the Team](#13-meet-the-team)
+14. [Quick Access QR](#14-qr-code-to-try)
     
 
 </details>
@@ -151,7 +152,17 @@ Experience the full workflow of MediGuard AI:
 | Safety Focus | Highlights contraindications, interactions, high-risk warnings | Limited or inconsistent safety validation |
 | Purpose | Specialized medical assistant for patient safety | General-purpose conversational AI |
 
-## 13. QR Code to Try
+## 13. Meet the Team
+
+| Name | Role |
+|------|------|
+| Nandini | Team Contributor |
+| Sindhu | Team Contributor |
+| Praneeth Mohan | Team Contributor |
+| Rohit | Team Contributor |
+| Noya | Team Contributor |
+
+## 14. QR Code to Try
 Scan this code with your mobile device to open the Web App or install directly:
 
 <p align="center">
