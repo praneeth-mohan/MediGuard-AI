@@ -22,8 +22,7 @@
 </p>
 
 <p align="center">
-  <b>Click icons to download from Official Release Page</b>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
@@ -40,7 +39,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" width="100%" alt="MediGuard Banner">
 </p>
----
+
 
 ### 📂 Navigation Menu
 <details>
@@ -91,11 +90,11 @@ The web version is live and optimized for immediate testing:
 
 ## 6. Install the MediGuard
 Click the icons below to go to the **Official Release Page** for downloads:
-
-| Android (APK) | Windows (EXE) |
+| Platform | Download |
 | :---: | :---: |
-| <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases"> | <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
-| **Download via Obtainium** | **Download via GitStore** |
+| 📱 Android (APK) | [Download from Releases](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
+| 💻 Windows (EXE) | [Download from Releases](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
+| ⚙️ Obtainium | [Install via Obtainium](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
 
 ---
 
