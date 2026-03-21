@@ -165,7 +165,8 @@ Experience the full workflow of MediGuard AI:
 - 🎥 [**Watch the Demonstration Video**]
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/35bf6b0b-de2b-4375-a568-cce0b0b65736" width="70%" />
+https://github.com/user-attachments/assets/e74abdf6-7d42-4fe3-a7b3-a345b3d6b122
+  width="70%" />
 </p>
 
 
