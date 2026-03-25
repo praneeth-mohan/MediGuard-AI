@@ -193,13 +193,14 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 
 
 ## 13. Meet the Team
-| Name | Role |
-|------|------|
-| Nandini | Team Contributor |
-| Sindhu | UI & UX designer|
-| Praneeth Mohan | Developer |
-| Rohit | Team Contributor |
-| Noya | Team Coordinator |
+
+| Contributor | Professional Designation | Core Impact |
+| :--- | :--- | :--- |
+| **Nandini** | **Product Solutions Specialist** | Driving feature implementation and functional optimization. |
+| **Noya** | **Strategic Operations Orchestrator** | Facilitating cross-functional workflows and delivery milestones. |
+| **Praneeth Mohan** | **Chief Systems Architect** | High-level technical strategy, core logic, and system integrity. |
+| **Rohit** | **Quality & Integration Specialist** | Ensuring seamless deployment and rigorous system reliability. |
+| **Sindhu** | **Principal Experience Architect** | Leading user-centric design systems and interface aesthetics. |
 
 
 <details>
