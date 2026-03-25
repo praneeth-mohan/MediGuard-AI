@@ -196,10 +196,10 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 | Name | Role |
 |------|------|
 | Nandini | Team Contributor |
-| Sindhu | UI UX designer|
+| Sindhu | UI & UX designer|
 | Praneeth Mohan | Developer |
 | Rohit | Team Contributor |
-| Noya | Team Contributor |
+| Noya | Team Coordinator |
 
 
 <details>
