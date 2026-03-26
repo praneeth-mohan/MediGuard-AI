@@ -105,11 +105,11 @@ The web version is live and optimized for immediate testing:
 
 ## 6. Install the MediGuard
 Click the icons below to go to the **Official Release Page** for downloads:
-| Platform | Download |
-| :---: | :---: |
-| 📱 Android (APK) | [Download from Releases](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
-| 💻 Windows (EXE) | [Download from Releases](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
-| ⚙️ Obtainium | [Install via Obtainium](https://github.com/praneeth-mohan/MediGuard-AI/releases) |
+| Platform | Primary Source | Alternative |
+| :---: | :---: | :---: |
+| 📱 Android | https://github.com/praneeth-mohan/MediGuard-AI/releases | https://mediguard-ai.en.uptodown.com/android |
+| 💻 Windows | https://github.com/praneeth-mohan/MediGuard-AI/releases | https://mediguard-ai.en.uptodown.com/windows |
+| ⚙️ Obtainium | https://github.com/praneeth-mohan/MediGuard-AI/releases | — |
 
 ---
 
