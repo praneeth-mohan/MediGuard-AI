@@ -37,7 +37,13 @@
     <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   </a>
 </p>
-
+<p align="center">
+<a href='https://mediguard-ai.en.uptodown.com/android' title='Download MediGuard AI' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-aao-big.png' alt='Download MediGuard AI'>
+                </a> <a href='https://mediguard-ai.en.uptodown.com/windows' title='Download MediGuard AI' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download MediGuard AI'>
+                </a>
+  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" width="100%" alt="MediGuard Banner">
 </p>
@@ -107,7 +113,7 @@ The web version is live and optimized for immediate testing:
 Click the icons below to go to the **Official Release Page** for downloads:
 | Platform | Primary Source | Alternative |
 | :---: | :---: | :---: |
-| 📱 Android | https://github.com/praneeth-mohan/MediGuard-AI/releases | https://mediguard-ai.en.uptodown.com/android |
+| 📱 Android | https://github.com/praneeth-mohan/MediGuard-AI/releases | https://mediguard-ai.en.uptodown.com/android |                
 | 💻 Windows | https://github.com/praneeth-mohan/MediGuard-AI/releases | https://mediguard-ai.en.uptodown.com/windows |
 | ⚙️ Obtainium | https://github.com/praneeth-mohan/MediGuard-AI/releases | — |
 
