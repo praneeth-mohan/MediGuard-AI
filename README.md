@@ -43,6 +43,11 @@
          alt="Get it on GitHub" 
          height="80">
   </a>
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+  <img src="https://raw.githubusercontent.com/praneeth-mohan/MediGuard-AI/main/direct-apk-download.png" 
+       alt="Direct APK Download" 
+       height="80">
+</a>
 <p align="center">
 <a href='https://mediguard-ai.en.uptodown.com/android' title='Download MediGuard AI' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-aao-big.png' alt='Download MediGuard AI'>
