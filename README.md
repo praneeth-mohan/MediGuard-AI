@@ -23,8 +23,7 @@
 </a>
 </p>
 
-<p align="center">
-
+</p>
 
 <p align="center">
   <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
@@ -37,6 +36,13 @@
     <img src="https://img.shields.io/badge/Download-Windows_EXE-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
+    <img src="https://raw.githubusercontent.com/machiav3lli/oandbackupx/master/badge_github.png" 
+         alt="Get it on GitHub" 
+         height="80">
+  </a>
 <p align="center">
 <a href='https://mediguard-ai.en.uptodown.com/android' title='Download MediGuard AI' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-aao-big.png' alt='Download MediGuard AI'>
