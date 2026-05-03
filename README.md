@@ -39,22 +39,33 @@
 
 <p align="center">
   <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
-    <img src="https://raw.githubusercontent.com/machiav3lli/oandbackupx/master/badge_github.png" 
+    <img src="https://raw.githubusercontent.com/praneeth-mohan/MediGuard-AI/main/badge_github.png" 
          alt="Get it on GitHub" 
          height="80">
   </a>
+  
   <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
-  <img src="https://raw.githubusercontent.com/praneeth-mohan/MediGuard-AI/main/direct-apk-download.png" 
-       alt="Direct APK Download" 
-       height="80">
-</a>
+    <img src="https://raw.githubusercontent.com/praneeth-mohan/MediGuard-AI/main/direct-apk-download.png" 
+         alt="Direct APK Download" 
+         height="80">
+  </a>
+</p>
 <p align="center">
 <a href='https://mediguard-ai.en.uptodown.com/android' title='Download MediGuard AI' >
                 <img src='https://stc.utdstc.com/img/mediakit/download-aao-big.png' alt='Download MediGuard AI'>
                 </a> <a href='https://mediguard-ai.en.uptodown.com/windows' title='Download MediGuard AI' >
-                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download MediGuard AI'>
-                </a>
-  
+
+ </a>
+<p align="center">
+  Download for Windows
+   </a>
+<p align="center">
+  <a href="https://mediguard-ai.en.uptodown.com/android" title="Download MediGuard AI">
+    <img src="https://stc.utdstc.com/img/mediakit/download-gio-big.png" height="80" alt="Download MediGuard AI">
+  </a>
+</p>
+
+ </a> 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" width="100%" alt="MediGuard Banner">
 </p>
