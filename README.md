@@ -147,12 +147,13 @@ Click the icons below to go to the **Official Release Page** for downloads:
 </p>
 <img width="1376" height="768" alt="3" src="https://github.com/user-attachments/assets/6a9d6964-ff5a-4581-8def-aa8a77a3e617" />
 </p>
-<img width="1676" height="937" alt="4" src="https://github.com/user-attachments/assets/ca94b62e-d857-468c-a9a2-949dcf57c846" />
+<img width="1678" height="937" alt="4" src="https://github.com/user-attachments/assets/d46a31d6-514e-491e-90c2-3d1b751f50e5" />
+</p>
+<img width="1677" height="938" alt="5" src="https://github.com/user-attachments/assets/a7215a0c-bb26-4ec2-9b75-9a7f09a0ee7b" />
 </p>
 <img width="1680" height="936" alt="6" src="https://github.com/user-attachments/assets/27d87863-bf00-45f9-ade3-4dabb6da8aa7" />
 </p>
-<img width="1678" height="937" alt="5" src="https://github.com/user-attachments/assets/e57f45b2-e794-42f6-bcff-88f1672e82bd" />
-</p>
+
 
 ## 8. Screenshots for PC
 <p align="center">
