@@ -1,4 +1,4 @@
-<img width="1376" height="768" alt="3" src="https://github.com/user-attachments/assets/d1541f5f-c126-4501-804c-e0c2795ae098" /><img width="1680" height="936" alt="6" src="https://github.com/user-attachments/assets/4f27971d-20a6-4edf-a04c-d4cac629ace3" /><img width="1676" height="937" alt="4" src="https://github.com/user-attachments/assets/54562ea0-cd41-43b8-9058-5d198f4dc6a3" /><p align="center">
+<<img width="1676" height="937" alt="4" src="https://github.com/user-attachments/assets/54562ea0-cd41-43b8-9058-5d198f4dc6a3" /><p align="center">
   <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
     <img src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" width="120" alt="MediGuard AI Logo">
   </a>
