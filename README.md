@@ -1,3 +1,4 @@
+<p align="center">
 <img src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" width="120" alt="MediGuard AI Logo">
   </a>
   <br>
