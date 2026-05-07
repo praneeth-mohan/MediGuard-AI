@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1376" height="768" alt="3" src="https://github.com/user-attachments/assets/d1541f5f-c126-4501-804c-e0c2795ae098" /><img width="1680" height="936" alt="6" src="https://github.com/user-attachments/assets/4f27971d-20a6-4edf-a04c-d4cac629ace3" /><img width="1676" height="937" alt="4" src="https://github.com/user-attachments/assets/54562ea0-cd41-43b8-9058-5d198f4dc6a3" /><p align="center">
   <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
     <img src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" width="120" alt="MediGuard AI Logo">
   </a>
@@ -80,14 +80,15 @@
 4. [Tech Stack](#4-technology-of-mediguard)
 5. [Web Demo](#5-try-web)
 6. [Download & Install](#6-install-the-mediguard)
-7. [Desktop Gallery](#7-screenshots-for-pc)
-8. [Mobile Gallery](#8-screenshots-for-mobile)
-9. [Security Report](#9-virus-total-pdf)
-10. [Presentation Deck](#10-ppt)
-11. [Video Demo](#11-video-demo)
-12. [MediGuard vs Standard AI](#12-mediguard-vs-standard-ai)
-13. [Meet the Team](#13-meet-the-team)
-14. [Quick Access QR](#14-qr-code-to-try)
+7. [Screenshots for Uptodown / Github](#7-Screenshots-for-Uptodown-/-Github) 
+8. [Desktop Gallery](#8-screenshots-for-pc)
+9. [Mobile Gallery](#9-screenshots-for-mobile)
+10. [Security Report](#10-virus-total-pdf)
+11. [Presentation Deck](#11-ppt)
+12. [Video Demo](#12-video-demo)
+13. [MediGuard vs Standard AI](#13-mediguard-vs-standard-ai)
+14. [Meet the Team](#14-meet-the-team)
+15. [Quick Access QR](#15-qr-code-to-try)
     
 
 
@@ -140,7 +141,17 @@ Click the icons below to go to the **Official Release Page** for downloads:
 
 ---
 
-## 7. Screenshots for PC
+## 7. Screenshots for Uptodown / Github 
+<p align="center">
+<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/a1d950b7-4bdd-44a9-a646-e7c1508d5941" />
+<img width="1376" height="768" alt="2" src="https://github.com/user-attachments/assets/20aaa886-7a48-4a57-9b2d-397a7e49cfcf" />
+<img width="1376" height="768" alt="3" src="https://github.com/user-attachments/assets/6a9d6964-ff5a-4581-8def-aa8a77a3e617" />
+<img width="1676" height="937" alt="4" src="https://github.com/user-attachments/assets/ca94b62e-d857-468c-a9a2-949dcf57c846" />
+<img width="1680" height="936" alt="6" src="https://github.com/user-attachments/assets/27d87863-bf00-45f9-ade3-4dabb6da8aa7" />
+<img width="1678" height="937" alt="5" src="https://github.com/user-attachments/assets/e57f45b2-e794-42f6-bcff-88f1672e82bd" />
+</p>
+
+## 8. Screenshots for PC
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8634272d-febf-459e-9898-f4261b8edeaa" width="48%" />
   <img src="https://github.com/user-attachments/assets/1eb639b6-489f-4884-998f-bc56df35510d" width="48%" />
@@ -163,7 +174,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 
 
   
-## 8. Screenshots for Mobile
+## 9. Screenshots for Mobile
 <p align="center">
   <img src="https://github.com/user-attachments/assets/67c262b4-844a-4d36-a1cd-ab8d37c6409d" width="23%" />
   <img src="https://github.com/user-attachments/assets/b9959346-945a-4340-86a5-2c89a15afc5c" width="23%" />
@@ -174,20 +185,21 @@ Click the icons below to go to the **Official Release Page** for downloads:
 
 
 
-## 9. Virus Total PDF
+## 10<img width="1376" height="768" alt="2" src="https://github.com/user-attachments/assets/e0e99617-c83f-4242-8495-d088df70595e" />
+. Virus Total PDF
 To ensure maximum safety for healthcare environments, our executables are pre-scanned for threats.  
 - 🛡️ [**View Security Scan Report (PDF)**](https://github.com/user-attachments/files/26137758/virus.total.pdf)
 
 
 
 
-## 10. PPT
+## 11. PPT
 Official pitch deck for the **Pharma Hackathon 2026**:  
 - 📊 [**Download MediGuard-AI.pptx**](https://github.com/user-attachments/files/26137800/MediGuard-AI.pptx)
 
 
 
-## 11. Video Demo
+## 12. Video Demo
 Experience the full workflow of MediGuard AI:  
 - 🎥 [**Watch the Demonstration Video**]
 
@@ -206,7 +218,7 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 
 
 
-## 12. MediGuard vs Standard AI
+## 13. MediGuard vs Standard AI
 
 | Feature / Aspect | MediGuard AI (Safety-First System) | Standard AI Chatbots (Conversational) |
 |------------------|-----------------------------------|---------------------------------------|
@@ -219,7 +231,7 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 
 
 
-## 13. Meet the Team
+## 14. Meet the Team
 
 | Contributor | Professional Designation | Core Impact |
 | :--- | :--- | :--- |
@@ -233,7 +245,8 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 <details>
 <summary><b> 14. QR Code to Try</b></summary>
 
-## 14. QR Code to Try
+## 15<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/3e64c604-b7ac-4171-b16a-07c51d90d017" />
+. QR Code to Try
 Scan this code with your mobile device to open the Web App or install directly:
 
 <p align="center">
