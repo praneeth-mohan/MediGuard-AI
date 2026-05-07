@@ -184,9 +184,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 
 
 
-## 10 Virus Total PDF
-<img width="1376" height="768" alt="2" src="https://github.com/user-attachments/assets/e0e99617-c83f-4242-8495-d088df70595e" />
-. Virus Total PDF
+## 10. Virus Total PDF
 To ensure maximum safety for healthcare environments, our executables are pre-scanned for threats.  
 - 🛡️ [**View Security Scan Report (PDF)**](https://github.com/user-attachments/files/26137758/virus.total.pdf)
 
@@ -245,8 +243,7 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 <details>
 <summary><b> 15. QR Code to Try</b></summary>
 
-## 15<img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/3e64c604-b7ac-4171-b16a-07c51d90d017" />
-. QR Code to Try
+## 15. QR Code to Try
 Scan this code with your mobile device to open the Web App or install directly:
 
 <p align="center">
