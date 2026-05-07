@@ -58,11 +58,10 @@
  </a>
 <p align="center">
   Download for Windows
-   </a>
-<p align="center">
-  <a href="https://mediguard-ai.en.uptodown.com/android" title="Download MediGuard AI">
-    <img src="https://stc.utdstc.com/img/mediakit/download-gio-big.png" height="80" alt="Download MediGuard AI">
-  </a>
+  <p align="center">
+ <a href='https://mediguard-ai.en.uptodown.com/windows' title='Download MediGuard AI' >
+                <img src='https://stc.utdstc.com/img/mediakit/download-gio-big.png' alt='Download MediGuard AI'>
+                </a>
 </p>
 
  </a> 
