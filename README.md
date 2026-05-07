@@ -139,15 +139,20 @@ Click the icons below to go to the **Official Release Page** for downloads:
 | ⚙️ Obtainium | https://github.com/praneeth-mohan/MediGuard-AI/releases | — |
 
 
-
-## 7. Screenshots for Uptodown / Github 
+## 7. Screenshots for Uptodown / Github  
 <p align="center">
 <img width="1376" height="768" alt="1" src="https://github.com/user-attachments/assets/a1d950b7-4bdd-44a9-a646-e7c1508d5941" />
+  
 <img width="1376" height="768" alt="2" src="https://github.com/user-attachments/assets/20aaa886-7a48-4a57-9b2d-397a7e49cfcf" />
+
 <img width="1376" height="768" alt="3" src="https://github.com/user-attachments/assets/6a9d6964-ff5a-4581-8def-aa8a77a3e617" />
+
 <img width="1676" height="937" alt="4" src="https://github.com/user-attachments/assets/ca94b62e-d857-468c-a9a2-949dcf57c846" />
+
 <img width="1680" height="936" alt="6" src="https://github.com/user-attachments/assets/27d87863-bf00-45f9-ade3-4dabb6da8aa7" />
+
 <img width="1678" height="937" alt="5" src="https://github.com/user-attachments/assets/e57f45b2-e794-42f6-bcff-88f1672e82bd" />
+
 </p>
 
 ## 8. Screenshots for PC
