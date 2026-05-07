@@ -1,6 +1,4 @@
-<<img width="1676" height="937" alt="4" src="https://github.com/user-attachments/assets/54562ea0-cd41-43b8-9058-5d198f4dc6a3" /><p align="center">
-  <a href="https://github.com/praneeth-mohan/MediGuard-AI/releases">
-    <img src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" width="120" alt="MediGuard AI Logo">
+<img src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" width="120" alt="MediGuard AI Logo">
   </a>
   <br>
   <b>Precision Medical Informatics & Drug Safety Intelligence</b>
