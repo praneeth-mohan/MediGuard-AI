@@ -138,7 +138,7 @@ Click the icons below to go to the **Official Release Page** for downloads:
 | 💻 Windows | https://github.com/praneeth-mohan/MediGuard-AI/releases | https://mediguard-ai.en.uptodown.com/windows |
 | ⚙️ Obtainium | https://github.com/praneeth-mohan/MediGuard-AI/releases | — |
 
----
+
 
 ## 7. Screenshots for Uptodown / Github 
 <p align="center">
