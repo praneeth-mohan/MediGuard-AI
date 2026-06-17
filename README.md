@@ -256,9 +256,10 @@ Scan this code with your mobile device to open the Web App or install directly:
   <img width="980" height="980" alt="MediGuard_AI_QR_Transparent_White" src="https://github.com/user-attachments/assets/7715072c-a366-47f5-ac03-f52885463fcf" />
 <img width="900" height="900" alt="mediguard_ai_qr_inverted_transparent_logo" src="https://github.com/user-attachments/assets/2f4d352b-c202-4d41-8455-bc1e02622e41" />
 <img width="684" height="684" alt="1 png" src="https://github.com/user-attachments/assets/3b198ef8-51b7-4c5c-8e40-88a90fd4cea9" />
-</p>
 
----
+
+<details>
+<summary><b> 16. Proprietary Rights, Data Privacy & System Integrity Charter</b></summary>
 
 ## 16. Proprietary Rights, Data Privacy & System Integrity Charter
 
@@ -275,6 +276,7 @@ Scan this code with your mobile device to open the Web App or install directly:
 * **Malware & Tamper Verification:** Production builds are cryptographically signed and verified through multi-engine security platforms to guarantee binary integrity and eliminate supply chain risks.
 
 ### 📄 Verification & Compliance Documentation
+[MediGuard_AI_PROPRIETARY RIGHTS, DATA PRIVACY & SYSTEM INTEGRITY CHARTER.pdf](https://github.com/user-attachments/files/29060797/MediGuard_AI_PROPRIETARY.RIGHTS.DATA.PRIVACY.SYSTEM.INTEGRITY.CHARTER.pdf)
 
 
 
