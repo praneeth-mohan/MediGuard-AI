@@ -256,10 +256,8 @@ Scan this code with your mobile device to open the Web App or install directly:
   <img width="980" height="980" alt="MediGuard_AI_QR_Transparent_White" src="https://github.com/user-attachments/assets/7715072c-a366-47f5-ac03-f52885463fcf" />
 <img width="900" height="900" alt="mediguard_ai_qr_inverted_transparent_logo" src="https://github.com/user-attachments/assets/2f4d352b-c202-4d41-8455-bc1e02622e41" />
 <img width="684" height="684" alt="1 png" src="https://github.com/user-attachments/assets/3b198ef8-51b7-4c5c-8e40-88a90fd4cea9" />
-
-
-<details>
-<summary><b> 16. Proprietary Rights, Data Privacy & System Integrity Charter</b></summary>
+</p>
+</details>
 
 ## 16. Proprietary Rights, Data Privacy & System Integrity Charter
 
