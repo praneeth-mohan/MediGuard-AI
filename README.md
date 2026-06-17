@@ -274,7 +274,11 @@ Scan this code with your mobile device to open the Web App or install directly:
 * **Malware & Tamper Verification:** Production builds are cryptographically signed and verified through multi-engine security platforms to guarantee binary integrity and eliminate supply chain risks.
 
 ### 📄 Verification & Compliance Documentation
-[MediGuard_AI_PROPRIETARY RIGHTS, DATA PRIVACY & SYSTEM INTEGRITY CHARTER.pdf](https://github.com/user-attachments/files/29060797/MediGuard_AI_PROPRIETARY.RIGHTS.DATA.PRIVACY.SYSTEM.INTEGRITY.CHARTER.pdf)
+<p align="center">
+  <a href="https://github.com/praneeth-mohan/MediGuard-AI/blob/main/MediGuard_AI_PROPRIETARY%20RIGHTS%2C%20DATA%20PRIVACY%20%26%20SYSTEM%20INTEGRITY%20CHARTER.pdf">
+    <img src="https://img.shields.io/badge/Compliance-Charter_PDF-blueviolet?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Compliance Charter">
+  </a>
+</p>
 
 
 
