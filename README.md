@@ -88,6 +88,7 @@
 13. [MediGuard vs Standard AI](#13-mediguard-vs-standard-ai)
 14. [Meet the Team](#14-meet-the-team)
 15. [Quick Access QR](#15-qr-code-to-try)
+16. [Proprietary Rights, Data Privacy & System Integrity Charter](#16-proprietary-rights-data-privacy--system-integrity-charter)
     
 
 
@@ -256,8 +257,24 @@ Scan this code with your mobile device to open the Web App or install directly:
 <img width="900" height="900" alt="mediguard_ai_qr_inverted_transparent_logo" src="https://github.com/user-attachments/assets/2f4d352b-c202-4d41-8455-bc1e02622e41" />
 <img width="684" height="684" alt="1 png" src="https://github.com/user-attachments/assets/3b198ef8-51b7-4c5c-8e40-88a90fd4cea9" />
 
+---
 
- 
+## 16. Proprietary Rights, Data Privacy & System Integrity Charter
+
+### 💼 1. Proprietary Rights & Intellectual Property
+* **Ownership:** All source code, algorithm architectures, custom-trained model weights, interface designs, and core documentation contained within this repository are the exclusive property of the project maintainers unless otherwise specified under upstream open-source licenses.
+* **Usage Restrictions:** Unauthorized duplication, reverse engineering of the proprietary intelligence layers, or commercial redistribution without explicit written consent is strictly prohibited.
+
+### 🔒 2. Data Privacy & Patient Confidentiality
+* **Zero-Retention Architecture:** MediGuard-AI is built on a strict privacy-first framework. Patient data, medical informatics queries, and drug interaction logs are processed entirely in volatile memory or locally on-device. No Protected Health Information (PHI) is ever permanently logged, stored, or transmitted to external servers.
+* **Compliance Alignment:** The architectural data flow is engineered to align with international healthcare privacy standards, including **HIPAA** (Health Insurance Portability and Accountability Act) and **GDPR** (General Data Protection Regulation) guidelines regarding cryptographic data handling and user anonymity.
+
+### 🛡️ 3. System Integrity & Security Assurance
+* **Proactive Vulnerability Scanning:** Every architecture release undergoes rigorous automated and manual security audits to prevent dependency vulnerabilities, injection flaws, and memory leaks.
+* **Malware & Tamper Verification:** Production builds are cryptographically signed and verified through multi-engine security platforms to guarantee binary integrity and eliminate supply chain risks.
+
+### 📄 Verification & Compliance Documentation
+
 
 
 
