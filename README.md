@@ -259,6 +259,7 @@ Scan this code with your mobile device to open the Web App or install directly:
 </p>
 </details>
 
+
 ## 16. Proprietary Rights, Data Privacy & System Integrity Charter
 
 ### 💼 1. Proprietary Rights & Intellectual Property
