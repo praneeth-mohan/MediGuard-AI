@@ -1,3 +1,4 @@
+[MediGuard-Al MSME.pptx](https://github.com/user-attachments/files/30163507/MediGuard-Al.MSME.pptx)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/4a92fde7-629c-4c4c-9011-1a1038fe8c5a" width="120" alt="MediGuard AI Logo">
   </a>
@@ -199,7 +200,7 @@ To ensure maximum safety for healthcare environments, our executables are pre-sc
 
 ## 11. PPT
 Official pitch deck for the **Pharma Hackathon 2026**:  
-- 📊 [**Download MediGuard-AI.pptx**](https://github.com/user-attachments/files/26137800/MediGuard-AI.pptx)
+- 📊 [**Download MediGuard-AI.pptx**](https://github.com/user-attachments/files/30163509/MediGuard-Al.MSME.pptx)
 
 
 
@@ -209,14 +210,21 @@ Experience the full workflow of MediGuard AI:
 
 
 
+
+
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea">
+  <a href="https://github.com/user-attachments/assets/f2f32dfb-5454-454e-94ae-450a11054cf1">
+  <a href="">
     <img src="https://img.shields.io/badge/▶️%20Watch%20-Click%20Here-red?style=for-the-badge" />
   </a>
 </p>
 
 
-https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
+
+
+https://github.com/user-attachments/assets/f2f32dfb-5454-454e-94ae-450a11054cf1
+
+
 
 
 
