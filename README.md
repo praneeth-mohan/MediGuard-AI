@@ -213,9 +213,8 @@ Experience the full workflow of MediGuard AI:
 
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/f2f32dfb-5454-454e-94ae-450a11054cf1">
-  <a href="">
-    <img src="https://img.shields.io/badge/▶️%20Watch%20-Click%20Here-red?style=for-the-badge" />
+  <a href="https://github.com/user-attachments/assets/f2f32dfb-5454-454e-94ae-450a11054cf1" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20-Click%20Here-red?style=for-the-badge" alt="Watch Demo" />
   </a>
 </p>
 
