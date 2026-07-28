@@ -8,7 +8,7 @@
 
 <!-- 🔥 TRY WEB ADDED -->
 <p align="center">
-  <a href="www.mediguardai.dpdns.org">
+  <a href="https://www.mediguardai.dpdns.org/">
     <img src="https://img.shields.io/badge/Try-Live_Web_App-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 </p>
@@ -127,7 +127,7 @@ In the medical field, accuracy is non-negotiable. MediGuard addresses the "hallu
 
 ## 5. Try Web
 The web version is live and optimized for immediate testing:  
-👉 [**Launch MediGuard Web App**](www.mediguardai.dpdns.org)
+👉 [**Launch MediGuard Web App**](https://www.mediguardai.dpdns.org/)
 
 
 
